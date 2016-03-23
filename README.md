@@ -38,7 +38,7 @@ When learners enter, there is a set up table to get them setup.  Most of us will
 
 Our goal here is this get set up quickly and with enough to hit the ground running.  We want to keep the focus on GitHub and git as much as possible in the beginning.  For example, we are leaving out [setting up ssh keys](https://help.github.com/articles/generating-an-ssh-key/) with GitHub.  If there's time, we should help with this at the end of the workshop.
 
-** Also, notice that we are leaving [`core.editor`](https://help.github.com/articles/associating-text-editors-with-git/) [option](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#Your-Editor) out.  We anticipate running into questions if the commit window with VI comes up.  However, this is unlikely and may only happen late in the workshop.  Since not everybody will have a text editor, we don't want to preemptively go on a tangent to set this.
+** Also, notice that we are leaving [`core.editor`](https://help.github.com/articles/associating-text-editors-with-git/) [option](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#Your-Editor) out.  We anticipate running into questions if the commit window with VI comes up.  However, this is unlikely to happen because we'll be teaching `git commit -m`.  Since not everybody will have a text editor, we don't want to prematurely go on a tangent to set this.
 
 ## Curriculum
 
