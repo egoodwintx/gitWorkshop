@@ -1,3 +1,19 @@
+# Overview
+
+## Learners without cmdline experience
+
+1. collaborate on an existing repo using only the github website
+1. brief intro to commandline
+1. start new repo locally and putting it on github
+1. practice collaboration on each other's repos
+
+## Learners with some cmdline experience
+
+1. collaborate on an existing repo using git locally
+1. start new repo locally and putting it on github
+1. practice collaboration on each other's repos
+1. lightning talks on advanced topics collected throughout
+
 # The Plan
 
 ## Set-up
@@ -5,7 +21,7 @@
 When learners enter, there is a set up table to get them setup.  Most of us will help out with the initial wave of learners checking and helping with set up.
 
 ### Set-up checklist
-- [ ] GitHub account?
+- [ ] GitHub account
   * Remind learner to verify email
 - [ ] https://git-scm.com/downloads
   * git-bash for Windows
