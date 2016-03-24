@@ -16,38 +16,19 @@
 
 # The Plan
 
-## Set-up
+## Entrance
 
-When learners enter, there is a set up table to get them setup.  Most of us will help out with the initial wave of learners checking and helping with set up.
+Check in when you arrive and let us know if you're comfortable with Git on Windows, and if you prefer students who already have command-line experience. The students without command-line experience will have a modified curriculum that will include an introduction to using the command-line.
 
-### Set-up checklist
-
-- [ ] GitHub account
-  * Remind learner to verify email
-- [ ] https://git-scm.com/downloads
-  * git-bash for Windows
-  * [avoid Xcode for Macs](http://blog.bobbyallen.me/2014/03/07/how-to-install-git-without-having-to-install-xcode-on-macosx/)
-  * Verify by doing `git --version`
-- [ ] [git configs set](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#Your-Identity)**
-  * user.name
-  * user.email
-  ```bash
-  git config --global user.name "your name"
-  git config --global user.email "youremail@youremail.com"
-  ```
-
-Our goal here is this get set up quickly and with enough to hit the ground running.  We want to keep the focus on GitHub and git as much as possible in the beginning.  For example, we are leaving out [setting up ssh keys](https://help.github.com/articles/generating-an-ssh-key/) with GitHub.  If there's time, we should help with this at the end of the workshop.
-
-** Also, notice that we are leaving [`core.editor`](https://help.github.com/articles/associating-text-editors-with-git/) [option](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#Your-Editor) out.  We anticipate running into questions if the commit window with VI comes up.  However, this is unlikely to happen because we'll be teaching `git commit -m`.  Since not everybody will have a text editor, we don't want to prematurely go on a tangent to set this.
+As learners come in, we will help them with setup if needed and direct them to you. Get to know why they are interested in learning Git, what they do, and what they've heard about Git.  Introduce yourself and what you use Git for. Once you have about 5 learners, you can begin to lead them through the curriculum.
 
 ## Curriculum
 
-As traffic coming in slows down, more and more of us will settle down with a group of learners (up to 5) through:
-
 ### Collaborate together on your groups' git repo
   * ~ 0.5 hrs - 1.5 hrs
-  * a repo of recipes
-    * Fork this -- link to come -- and then add your group members' gh usernames
+  * a repo of [recipes](https://github.com/codeparkhouston/recipes)
+    * We will set up a clean repo when you arrive
+    * Add your group members as collaborators
 
 #### Learners with no command line experience
 *will do this within the GitHub website*
@@ -58,7 +39,7 @@ As traffic coming in slows down, more and more of us will settle down with a gro
 1. Commiting, and writing commit messages
 1. PRs
 1. Review, diffing and merging
-1. master
+1. Master branch
 1. Issues
 
 #### Learners with command line experience
@@ -67,12 +48,12 @@ As traffic coming in slows down, more and more of us will settle down with a gro
 ##### Concepts
 All of the above plus
 
-1. local vs. remote
-1. cloning
-1. git checkout/branching locally
-1. staging files/git add
-1. pushing
-1. pulling
+1. Local vs. remote
+1. Cloning
+1. Git checkout/branching locally
+1. Staging files/git add
+1. Pushing
+1. Pulling
 
 ### Start a fresh repo
   * ~ 0.5 hrs - 1.5 hrs
@@ -82,9 +63,9 @@ will be introduced to the command line
 
 ##### Command line concepts
 
-1. what is it?
-1. paths
-1. commands
+1. What is it?
+1. Paths
+1. Commands
   * `ls`
   * `mkdir`
   * `pwd`
@@ -93,7 +74,7 @@ will be introduced to the command line
 ##### Git concepts
 
 1. `git init`
-1. local vs remote
+1. Local vs remote
 1. `git push`
 
 #### Learners with command line experience
@@ -105,16 +86,17 @@ All of the above
 
 ### Practice collaboration with each other's repos
 
-1. forking
-1. how to add collaborators
-1. github organizations
-1. merge conflicts
+1. Cloning
+1. Forking
+1. How to add collaborators
+1. Github organizations
+1. Merge conflicts
 
-Online and printed versions of the guide will be available.  The guide will outline these steps generally and the explanation of concepts will be a conversation between you and your group.  Along with the guide, we will have ideas for how you can explain certain concepts, and the initial repo ready for you to fork and use with your group.
+Online and printed versions of the guide will be available.  The guide will outline these steps generally and the explanation of concepts will be a conversation between you and your group.  Along with the guide, we will have ideas for how you can explain certain concepts, and the initial repo ready for you to use with your group.
 
 ### Throughout
 
-A whiteboard will be available for people to visit and write down topics/questions for a series of lightning talks, if there's time and interest.
+A whiteboard will be available for people to visit and write down topics/questions for a series of lightning talks at the end.
 
 ## Potential points of confusion
 
