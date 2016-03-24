@@ -41,6 +41,8 @@ As learners come in, we will help them with [setup](./setup.md) if needed and di
 1. Review, diffing and merging
 1. Master branch
 1. Issues
+1. Merge conflict
+  * Resolved by mentor while showing learners
 
 #### Learners with command line experience
 *will do this in the command line*
@@ -86,13 +88,14 @@ All of the above
 
 ### Practice collaboration with each other's repos
 
+Pair up and practice the following:
+
 1. Cloning
 1. Forking
 1. How to add collaborators
-1. Github organizations
-1. Merge conflicts
+1. Resolving merge conflicts
 
-Online and printed versions of the guide will be available.  The guide will outline these steps generally and the explanation of concepts will be a conversation between you and your group.  Along with the guide, we will have ideas for how you can explain certain concepts, and the initial repo ready for you to use with your group.
+Online and printed versions of a guide will be available.  The guide will outline these steps generally and the explanation of concepts will be a conversation between you and your group.  Along with the guide, we will have ideas for how you can explain certain concepts, and the initial repo ready for you to use with your group.
 
 ### Throughout
 

@@ -17,6 +17,7 @@ When learners enter, there is a set up table to get them setup.  A few of us wil
   git config --global user.name "your name"
   git config --global user.email "youremail@youremail.com"
   ```
+- [ ] [Atom](https://atom.io/) if no editor
 
 Our goal here is this get set up quickly and with enough to hit the ground running.  We want to keep the focus on GitHub and git as much as possible in the beginning.  For example, we are leaving out [setting up ssh keys](https://help.github.com/articles/generating-an-ssh-key/) with GitHub.  If there's time, we should help with this at the end of the workshop.
 
