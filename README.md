@@ -20,7 +20,7 @@
 
 Check in when you arrive and let us know if you're comfortable with Git on Windows, and if you prefer students who already have command-line experience. The students without command-line experience will have a modified curriculum that will include an introduction to using the command-line.
 
-As learners come in, we will help them with setup if needed and direct them to you. Get to know why they are interested in learning Git, what they do, and what they've heard about Git.  Introduce yourself and what you use Git for. Once you have about 5 learners, you can begin to lead them through the curriculum.
+As learners come in, we will help them with [setup](./setup.md) if needed and direct them to you. Get to know why they are interested in learning Git, what they do, and what they've heard about Git.  Introduce yourself and why you use Git. Once you have about 5 learners, you can begin to lead them through the curriculum.
 
 ## Curriculum
 
@@ -102,11 +102,11 @@ A whiteboard will be available for people to visit and write down topics/questio
 
 * not seeing any indication of password being typed at the command line
   * explain that this is normal, and is done to protect the password
-* git-bash on windows
-  * [copy and paste is sneaky](http://stackoverflow.com/questions/2304372/how-do-you-copy-and-paste-into-git-bash)
+* copy and paste in git-bash on windows doesn't work as expected
+  * [ways to do it](http://stackoverflow.com/questions/2304372/how-do-you-copy-and-paste-into-git-bash)
 * vi commit
   * we'll avoid this by teaching `commit -m`
 * having to log in all the time from the command line
-  * towards the end, help [set up ssh key](https://help.github.com/articles/generating-an-ssh-key/)
+  * towards the end, you can help the learner [set up an ssh key](https://help.github.com/articles/generating-an-ssh-key/)
 * thinking `commit` is the same as `push` 
  * we'll break up the two concepts by making a number of commits before pushing
