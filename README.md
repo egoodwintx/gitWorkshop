@@ -126,3 +126,5 @@ A whiteboard will be available for people to visit and write down topics/questio
   * we'll avoid this by teaching `commit -m`
 * having to log in all the time from the command line
   * towards the end, help [set up ssh key](https://help.github.com/articles/generating-an-ssh-key/)
+* thinking `commit` is the same as `push` 
+ * we'll break up the two concepts by making a number of commits before pushing
