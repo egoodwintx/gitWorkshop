@@ -119,10 +119,10 @@ A whiteboard will be available for people to visit and write down topics/questio
 ## Potential points of confusion
 
 * not seeing any indication of password being typed at the command line
-  * when being prompted to login to GitHub in order to push
+  * explain that this is normal, and is done to protect the password
 * git-bash on windows
   * [copy and paste is sneaky](http://stackoverflow.com/questions/2304372/how-do-you-copy-and-paste-into-git-bash)
 * vi commit
-  * potentially confusing to beginners...
+  * we'll avoid this by teaching `commit -m`
 * having to log in all the time from the command line
   * towards the end, help [set up ssh key](https://help.github.com/articles/generating-an-ssh-key/)
