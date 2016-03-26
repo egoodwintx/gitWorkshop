@@ -1,3 +1,6 @@
+[Handbook](http://codeparkhouston.github.io/git-workshop-handbook/)
+
+
 # Overview
 
 ## Learners with no command line experience
